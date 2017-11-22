@@ -1,4 +1,4 @@
-# wwxl ()
+# wwxl
 > 请预先安装Node.js, npm, webpack
 
 ## use
